@@ -8,6 +8,10 @@ SCOPEN est un projet de *Société Coopérative Ouverte* sous la forme d'une [Co
 
 # Contenu
 
+## Projet
+
+* [Le projet](construction/documents/projet.md)
+
 ## Réunions
 
 * [2016-03-07](construction/réunions/2016-03-07.md)
@@ -30,3 +34,4 @@ Ce projet s'inspire de l'air du temps et d'autres expérimentations telles que:
 * [Scopyleft](http://scopyleft.fr/): une SCOP de développeurs (mais pas que) ;
 * [/ut7](http://ut7.fr/): autre SCOP de développeurs mais pas que ;
 * [Buffer](https://buffer.com/transparency): une startup 100% transparente ;
+* [Lateral Thoughts](http://www.lateral-thoughts.com/) 
