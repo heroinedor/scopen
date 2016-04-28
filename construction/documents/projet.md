@@ -6,7 +6,6 @@
   * une activité de portage/mutualisation à destination d'indépendants/freelance/TPE
   * une activité d'incubation de projets innovants
 
-
 ## Coopérative d'Activité et d'Emploi
 
 * fonctionnement coopératif : la société est la propriété de ceux qui y travaillent
