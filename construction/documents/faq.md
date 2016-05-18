@@ -17,3 +17,13 @@
 ## Comment valoriser la contribution personnelle ?
 
 * Rien n'interdit à un coopérant d'investir par ailleurs à titre personnel dans un projet accompagné par scopen, en complément de la participation de scopen
+
+## Ce n'est pas pour tout le monde...
+
+* Non effectivement, ce n'est pas pour tout le monde. Les indépendants sont souvent indépendants pour une raison...
+* Il faut accepter de se fondre dans un collectif qui pourra nous survivre
+
+## En quoi Scopen est différent d'une NoSSII ?
+
+* À la base, la démarche est similaire mais scopen rajoute une dimension *incubateur* que n'ont pas les NoSSII (en général)
+* L'objectif n'est pas de faire de la prestation de services différemment, il est de faire émerger des projets innovants technologiquement qui soient aussi des projets innovants socialement (pléonasme...)
